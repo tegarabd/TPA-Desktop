@@ -1,0 +1,14 @@
+.navbar {
+  background-color: aliceblue;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 2rem;
+  height: 4rem;
+}
+
+.navbarRight {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}

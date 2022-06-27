@@ -1,0 +1,35 @@
+.formContainer {
+    min-height: 100vh;
+    width: 100vw;
+    background-color: aliceblue;
+    display: grid;
+    place-items: center;
+}
+
+.form {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 20rem;
+    padding: 2rem;
+    border-radius: 1rem;
+}
+
+.formTitle {
+    color: #7fa4c5;
+}
+
+.inputField {
+    width: 16rem;
+    margin-bottom: 1rem;
+}
+
+.link {
+    font-weight: bold;
+    color: #7fa4c5;
+}
+
+.sideImage {
+    object-fit: cover;
+}
